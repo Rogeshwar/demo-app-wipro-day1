@@ -1,3 +1,4 @@
+package Inher;
 class item{
 	private String t;
 	private String a;
